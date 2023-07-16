@@ -2,7 +2,7 @@
 
 Solution-driven front end lead adept at contributing to a highly collaborative and Agile work environment and determining customer satisfaction.<br>
 Proven experience delivering consumer-focused websites using frameworks like Node.js and React.js .<br>
-Built products for desktop and mobile app users over 3+ years, meeting highest standards for modern web design, automation tests, user experience, best practices and Scrum.<br> Designed and developed web applications across multiple REST APIs.
+Built products for desktop and mobile app users over 5+ years, meeting highest standards for modern web design, automation tests, user experience, best practices and Scrum.<br> Designed and developed web applications across multiple REST APIs.
 
 ## ⚡ Technologies
 
