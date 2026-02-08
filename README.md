@@ -2,7 +2,7 @@
 
 Solution-driven front end lead adept at contributing to a highly collaborative and Agile work environment and determining customer satisfaction.<br>
 Proven experience delivering consumer-focused websites using frameworks like Node.js and React.js .<br>
-Built products for desktop and mobile app users over 5+ years, meeting highest standards for modern web design, automation tests, user experience, best practices and Scrum.<br> Designed and developed web applications across multiple REST APIs.
+Built products for desktop and mobile app users over 7+ years, meeting highest standards for modern web design, automation tests, user experience, best practices and Scrum.<br> Designed and developed web applications across multiple REST APIs.
 
 ## ⚡ Technologies
 
@@ -38,12 +38,13 @@ Built products for desktop and mobile app users over 5+ years, meeting highest s
 ## 📖 What I am currently learning / improving on
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-0C2340?style=flat&logo=Node.js)
+![NestJs](https://img.shields.io/badge/-NestJs-0C2340?style=flat&logo=nestjs)
 ![Python](https://img.shields.io/badge/-Python-0C2340?style=flat&logo=Python)
+
 
 ## 🔍 Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/rouzbeh-hatamy-zargaran/)](https://www.linkedin.com/in/rouzbeh-hatamy-zargaran/)
-[![Linkedin Badge](https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Rouzbeh_hatamy)](https://twitter.com/Rouzbeh_hatamy)
 [![Linkedin Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=google&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=roozbeh.hatamy@gmail.com)](https://mail.google.com/mail/?view=cm&fs=1&to=roozbeh.hatamy@gmail.com)
 
 ## 💹 Stats
